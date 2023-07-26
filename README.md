@@ -38,8 +38,8 @@ where, $U_{12} = exp({-i\frac{\delta}{2\sqrt{(J_1+1/2)(J_2+1/2)}}J_{1y}J_{2y}})$
 
 
 
- [^1]: [Classical and quantum chaos for a kicked top by Haake](https://link.springer.com/article/10.1007/BF01303727)
- [^2]: [Entanglement in coupled kicked tops with chaotic dynamics](https://arxiv.org/pdf/1910.13447.pdf)
-[^3]: [Signatures of chaos in the entanglement of two coupled quantum kicked tops](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.60.1542)
+ [^1]: Haake, F., Kuś, M. & Scharf, R. Classical and quantum chaos for a kicked top. Z. Physik B - Condensed Matter 65, 381–395 (1987). [https://doi.org/10.1007/BF01303727](https://doi.org/10.1007/BF01303727)
+ [^2]: Herrmann, Tabea, et al. "Entanglement in coupled kicked tops with chaotic dynamics." Physical Review E 101.2 (2020): 022221.[https://link.aps.org/doi/10.1103/PhysRevE.101.022221](https://link.aps.org/doi/10.1103/PhysRevE.101.022221).
+[^3]: Miller PA, Sarkar S. Signatures of chaos in the entanglement of two coupled quantum kicked tops. Phys Rev E Stat Phys Plasmas Fluids Relat Interdiscip Topics. 1999 Aug;60(2 Pt A):1542-50. [https://doi: 10.1103/physreve.60.1542. PMID: 11969915](https://doi.org/10.1103/physreve.60.1542).
 
 
